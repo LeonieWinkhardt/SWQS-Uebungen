@@ -1,0 +1,24 @@
+cmd.exe
+/X
+/C
+"C:\Users\leoni\Downloads\openjdk-13.0.2_windows-x64_bin\jdk-13.0.2\bin\javadoc.exe @options @packages"
+C:\Users\leoni\my-app\target\site\apidocs\allclasses-index.html = 1607004739965
+C:\Users\leoni\my-app\target\site\apidocs\allpackages-index.html = 1607004739969
+C:\Users\leoni\my-app\target\site\apidocs\constant-values.html = 1607004739869
+C:\Users\leoni\my-app\target\site\apidocs\deprecated-list.html = 1607004739921
+C:\Users\leoni\my-app\target\site\apidocs\element-list = 1607004739841
+C:\Users\leoni\my-app\target\site\apidocs\help-doc.html = 1607004739978
+C:\Users\leoni\my-app\target\site\apidocs\index-all.html = 1607004739955
+C:\Users\leoni\my-app\target\site\apidocs\index.html = 1607004739973
+C:\Users\leoni\my-app\target\site\apidocs\member-search-index.js = 1607004739951
+C:\Users\leoni\my-app\target\site\apidocs\member-search-index.zip = 1607004739952
+C:\Users\leoni\my-app\target\site\apidocs\options = 1607004737917
+C:\Users\leoni\my-app\target\site\apidocs\overview-tree.html = 1607004739912
+C:\Users\leoni\my-app\target\site\apidocs\package-search-index.js = 1607004739939
+C:\Users\leoni\my-app\target\site\apidocs\package-search-index.zip = 1607004739944
+C:\Users\leoni\my-app\target\site\apidocs\packages = 1607004737919
+C:\Users\leoni\my-app\target\site\apidocs\script.js = 1607004739991
+C:\Users\leoni\my-app\target\site\apidocs\search.js = 1607004739997
+C:\Users\leoni\my-app\target\site\apidocs\stylesheet.css = 1607004739987
+C:\Users\leoni\my-app\target\site\apidocs\type-search-index.js = 1607004739946
+C:\Users\leoni\my-app\target\site\apidocs\type-search-index.zip = 1607004739949
